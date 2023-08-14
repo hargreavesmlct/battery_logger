@@ -10,7 +10,7 @@ Step for used Battery testing
 4. Now system already run
 
 Libraries that bust be installed
-1. Arduino_ESP32_OTA by Arduino
+1. esp32 by Epressif System
 2. ThingSpeak by MathWorks
 3. OneWire by Jim Studt or Paul Stoffregen
 4. Dallas Temperature by Miles Burton
