@@ -3,7 +3,6 @@ Step for setting ESP32
 2. See line 65 and line 66 for adapt your ThingSpeak Channel number and API key
 3. Now you can use the system
 
-
 Step for used Battery testing 
 1. Plug the battery to terminal bus
 2. Be sure WiFi is on
@@ -13,7 +12,7 @@ Step for used Battery testing
 Libraries that bust be installed
 1. ThingSpeak by MathWorks
 2. SdFat - Adafruit Fork by Bill Greiman
-3. OneWire by Jim Studt
+3. OneWire by Jim Studt or Paul Stoffregen
 4. Dallas Temperature by Miles Burton
 5. Adafruit SSD1306 by Adafruit
 6. Adafruit SPIFlash by Adafruit
