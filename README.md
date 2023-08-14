@@ -1,2 +1,3 @@
 # battery_logger
-This repo i present for everyone, you can modified my code at next future
+Hallo my is Hargreaves Manoah, NIM 19642033.
+Im the author this repo, i present the repo for everyone 
