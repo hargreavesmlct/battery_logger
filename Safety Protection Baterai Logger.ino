@@ -59,8 +59,8 @@ String jam_sekarang; // Deklarasi variabel global jam_sekarang
 String tgl_sekarang; // Deklarasi variabel global tgl_sekarang
 String hari; // Deklarasi variabel global hari
 
-const char* ssid = "ELDIAOBLO"; // Ganti dengan SSID Wifi anda
-const char* password = "fabio12345"; // Ganti dengan PASSWORD Wifi anda
+const char* ssid = "LAB_ELDA"; // Ganti dengan SSID Wifi anda
+const char* password = "elda123456"; // Ganti dengan PASSWORD Wifi anda
 
 unsigned long myChannelNumber = 2206734; // Ganti dengan nomor channel Thingspeak Anda
 const char* myWriteAPIKey = "QOQX3LGFETUU89JU"; // Ganti dengan API Key Thingspeak Anda
