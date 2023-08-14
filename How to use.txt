@@ -1,7 +1,8 @@
 Step for setting ESP32
-1. See line 62 and line 63 for setting you SSID and password for connected to ESP32 (recomend use defualt from my code)
-2. See line 65 and line 66 for adapt your ThingSpeak Channel number and API key
-3. Now you can use the system
+1. Select board arduino to ESP32 Dev Module
+2. See line 62 and line 63 for setting you SSID and password for connected to ESP32 (recomend use defualt from my code)
+3. See line 65 and line 66 for adapt your ThingSpeak Channel number and API key
+4. Now you can use the system
 
 Step for used Battery testing 
 1. Plug the battery to terminal bus
