@@ -1,0 +1,11 @@
+Step for setting ESP32
+1. See line 62 and line 63 for setting you SSID and password for connected to ESP32 (recomend use defualt from my code)
+2. See line 65 and line 66 for adapt your ThingSpeak Channel number and API key
+3. Now you can use the system
+
+
+Step for used Battery testing 
+1. Plug the battery to terminal bus
+2. Be sure WiFi is on
+3. Connect power supply
+4. Now system already run
